@@ -8,7 +8,8 @@ A Swift codebreaking challenge on Twitter!
 
 ## Summary
 
-Every week, a Tweet that starts with "CODEBREAKING CHALLENGE X:" will appear on my timeline ([@JUSTINMKAUFMAN](https://twitter.com/JUSTINMKAUFMAN)).
+Every week, a Tweet with the hashtag "#TwitterCodebreaker" will appear on my timeline ([@JUSTINMKAUFMAN](https://twitter.com/JUSTINMKAUFMAN)).
+
 A mysterious robot has been instructed to watch this Tweet carefully and encrypt all replies with a secret function.
 Your job is to reverse engineer the secret function driving the robot.
 
@@ -23,6 +24,7 @@ Follow me to receive a hint each day that the code remains unbroken!
 1. Reply to the Tweet, and within a few seconds the robot will reply back with the encrypted version of your Tweet.
 2. Send as many replies as you'd like in order to unravel the mystery.
 3. When you think you know the code that the robot is using, DM it to: [@JUSTINMKAUFMAN](https://twitter.com/JUSTINMKAUFMAN).
+4. First person to correctly determine the code in the `encrypt` function wins.
 
 ## Additional Details
 
