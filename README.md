@@ -6,6 +6,15 @@
 
 A Swift codebreaking challenge on Twitter!
 
+## Standings
+
+| Rank | User                                                | Score |
+|------|-----------------------------------------------------|-------|
+| 1    | [@0xA1EC](https://twitter.com/0xA1EC)               | 7     |
+| 2    | [@johnhaney](https://twitter.com/johnhaney)         | 5     |
+| 3    | [@nikfahl](https://twitter.com/nikfahl)             | 3     |
+| 4    | [@ethanjdiamond](https://twitter.com/ethanjdiamond) | 1     |
+
 ## Summary
 
 Every week, a Tweet with the hashtag "#TwitterCodebreaker" will appear on my timeline ([@JUSTINMKAUFMAN](https://twitter.com/JUSTINMKAUFMAN)).
@@ -14,6 +23,14 @@ A mysterious robot has been instructed to watch this Tweet carefully and encrypt
 Your job is to reverse engineer the secret function driving the robot.
 
 First person to DM me the correct code for the secret function (in Swift) will be announced as the winner!
+
+First place receives 7 points.
+
+Second place receives 5 points.
+
+Third place receives 3 points.
+
+All subsequent correct answers receive 1 point.
 
 The challenges will get harder each week.
 
