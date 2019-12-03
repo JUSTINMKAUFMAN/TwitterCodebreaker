@@ -11,9 +11,10 @@ A Swift codebreaking challenge on Twitter!
 | Rank | User                                                | Score |
 |------|-----------------------------------------------------|-------|
 | 1    | [@0xA1EC](https://twitter.com/0xA1EC)               | 7     |
-| 2    | [@johnhaney](https://twitter.com/johnhaney)         | 5     |
-| 3    | [@nikfahl](https://twitter.com/nikfahl)             | 3     |
-| 4    | [@ethanjdiamond](https://twitter.com/ethanjdiamond) | 1     |
+| 2    | [@BryanColle](https://twitter.com/BryanColle)       | 7     |
+| 3    | [@nikfahl](https://twitter.com/nikfahl)             | 6     |
+| 4    | [@johnhaney](https://twitter.com/johnhaney)         | 5     |
+| 5    | [@ethanjdiamond](https://twitter.com/ethanjdiamond) | 4     |
 
 ## Summary
 
